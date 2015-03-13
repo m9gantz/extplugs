@@ -5,4 +5,4 @@ $('#favourites ul li').css({
         'display':'inline',
         'list-style':'none',
 });
-/*test*/
+$('#favourites ul li');
