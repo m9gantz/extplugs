@@ -5,4 +5,3 @@ $('#favourites ul li').css({
         'display':'inline',
         'list-style':'none',
 });
-/*sdsdsd*/
